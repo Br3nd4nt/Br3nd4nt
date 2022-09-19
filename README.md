@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Br3nd4nt
 - 🐸 Currently looking for interesting ideas for projects
 - 🌸 Mainly use Python, also have little experience in Node.js and Android development w/ Java
-- ✨ Studuing at software engineering FCS HSE and learning C#
+- ✨ Studuing software engineering FCS HSE and learning C#
 
 ❤️🧡💛💚💙💜
 
