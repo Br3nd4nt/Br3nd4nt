@@ -1,7 +1,7 @@
 🐸 🌸
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2038%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -40,15 +40,15 @@ No Activity Tracked This Week
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    24 repos            █████████░░░░░░░░░░░░░░░░   36.92 % 
-Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-MATLAB                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Swift                    24 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
+Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+MATLAB                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
 
 
- Last Updated on 04/05/2026 20:03:59 UTC
+ Last Updated on 05/05/2026 19:59:24 UTC
 <!--END_SECTION:waka-->
