@@ -1,7 +1,7 @@
 🐸 🌸
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2030%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -31,10 +31,10 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Ghostty                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -50,5 +50,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2026 19:59:24 UTC
+ Last Updated on 06/05/2026 20:10:47 UTC
 <!--END_SECTION:waka-->
