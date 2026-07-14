@@ -1,27 +1,27 @@
 🐸 🌸
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 893.9 kB Used in GitHub's Storage 
+> 📦 909.3 kB Used in GitHub's Storage 
  > 
-> 🏆 100 Contributions in the Year 2026
+> 🏆 105 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 45 Public Repositories 
  > 
 > 🔑 22 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-🌆 Daytime                167 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-🌃 Evening                191 commits         ████████░░░░░░░░░░░░░░░░░   31.57 % 
-🌙 Night                  205 commits         ████████░░░░░░░░░░░░░░░░░   33.88 % 
+🌞 Morning                42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+🌆 Daytime                167 commits         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+🌃 Evening                195 commits         ████████░░░░░░░░░░░░░░░░░   32.02 % 
+🌙 Night                  205 commits         ████████░░░░░░░░░░░░░░░░░   33.66 % 
 ```
 
 
@@ -31,31 +31,31 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Swift                    4 hrs 32 mins       ██████████████░░░░░░░░░░░   57.86 % 
-Other                    2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.72 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-HTTP Request             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Swift                    5 hrs 30 mins       ███████████████░░░░░░░░░░   58.27 % 
+Other                    3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.19 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+HTTP Request             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-Xcode                    4 hrs 39 mins       ███████████████░░░░░░░░░░   59.39 % 
-Ghostty                  2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
-Neovim                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Postman                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Xcode                    5 hrs 52 mins       ████████████████░░░░░░░░░   62.11 % 
+Ghostty                  2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.73 % 
+Neovim                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Postman                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    16 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   15 repos            ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-MATLAB                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Swift                    17 repos            ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+Python                   15 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+MATLAB                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
 
 
- Last Updated on 13/07/2026 19:58:37 UTC
+ Last Updated on 14/07/2026 19:52:18 UTC
 <!--END_SECTION:waka-->
