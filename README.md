@@ -1,6 +1,8 @@
 🐸 🌸
 
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2048%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 909.4 kB Used in GitHub's Storage 
@@ -29,18 +31,18 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    6 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.29 % 
-Swift                    5 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.46 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Other                    5 hrs 12 mins       ██████████████░░░░░░░░░░░   56.97 % 
+Swift                    2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.45 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-Ghostty                  6 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.53 % 
-Xcode                    4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-Antigravity CLI          2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Notes                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Neovim                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Ghostty                  5 hrs 32 mins       ███████████████░░░░░░░░░░   60.62 % 
+Antigravity CLI          2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Xcode                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Neovim                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Notes                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -56,5 +58,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:56:21 UTC
+ Last Updated on 24/07/2026 19:55:41 UTC
 <!--END_SECTION:waka-->
