@@ -1,7 +1,7 @@
 🐸 🌸
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%208%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -31,18 +31,18 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    5 hrs 12 mins       ██████████████░░░░░░░░░░░   56.97 % 
-Swift                    2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.45 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Other                    6 hrs 8 mins        ██████████████████░░░░░░░   71.21 % 
+Swift                    1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-Ghostty                  5 hrs 32 mins       ███████████████░░░░░░░░░░   60.62 % 
-Antigravity CLI          2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-Xcode                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Neovim                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Notes                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Ghostty                  5 hrs 27 mins       ████████████████░░░░░░░░░   63.27 % 
+Antigravity CLI          2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.39 % 
+Neovim                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Notes                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Xcode                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -58,5 +58,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:55:41 UTC
+ Last Updated on 25/07/2026 19:43:28 UTC
 <!--END_SECTION:waka-->
