@@ -1,7 +1,9 @@
 🐸 🌸
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2041%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%204%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -31,15 +33,38 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    3 hrs 52 mins       ████████████████████████░   96.43 % 
-Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other                    3 hrs 59 mins       ████████████████████████░   95.77 % 
+Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 47 mins        ███████████░░░░░░░░░░░░░░   44.31 % 
-Ghostty                  1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   41.32 % 
-Notes                    34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Ghostty                  1 hr 48 mins        ███████████░░░░░░░░░░░░░░   43.27 % 
+Antigravity CLI          1 hr 47 mins        ███████████░░░░░░░░░░░░░░   42.72 % 
+Notes                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 47 mins (67.13%)
+
+✍️ 36 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 48 AI Prompts
+
+Gemini                   50 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 122 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Swift** 
@@ -55,5 +80,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:44:18 UTC
+ Last Updated on 27/07/2026 20:04:41 UTC
 <!--END_SECTION:waka-->
