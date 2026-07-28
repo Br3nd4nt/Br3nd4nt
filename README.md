@@ -1,10 +1,6 @@
 🐸 🌸
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2041%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%204%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 909.4 kB Used in GitHub's Storage 
@@ -33,38 +29,39 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    3 hrs 59 mins       ████████████████████████░   95.77 % 
-Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    4 hrs 13 mins       ████████████████████░░░░░   80.67 % 
+YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+sshconfig                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-Ghostty                  1 hr 48 mins        ███████████░░░░░░░░░░░░░░   43.27 % 
-Antigravity CLI          1 hr 47 mins        ███████████░░░░░░░░░░░░░░   42.72 % 
-Notes                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Antigravity CLI          2 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.44 % 
+Ghostty                  2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   38.90 % 
+Notes                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (67.13%)
+⏱ AI Coding Time: 3 hrs 43 mins (71.16%)
 
-✍️ 36 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 47 lines written by AI, 1 lines written by hand (97.92% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 48 AI Prompts
+🧠 7 AI Sessions, 66 AI Prompts
 
-Gemini                   50 lines            █████████████████████████   100.00 % 
+Gemini                   67 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 122 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 97.92% of written lines came from AI
+📝 Concise Prompter — average 114 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 1.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Swift** 
@@ -80,5 +77,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:04:41 UTC
+ Last Updated on 28/07/2026 20:01:36 UTC
 <!--END_SECTION:waka-->
