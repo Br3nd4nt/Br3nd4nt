@@ -1,9 +1,9 @@
 🐸 🌸
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2041%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -33,40 +33,40 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Other                    4 hrs 54 mins       ████████████████████░░░░░   80.75 % 
-YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-sshconfig                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Other                    3 hrs 59 mins       ████████████████████░░░░░   78.18 % 
+YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-Antigravity CLI          2 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.13 % 
-Ghostty                  2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.41 % 
-Notes                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Zoom                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Antigravity CLI          2 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.76 % 
+Ghostty                  1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   37.00 % 
+Notes                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Neovim                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Zoom                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 25 mins (72.58%)
+⏱ AI Coding Time: 3 hrs 42 mins (72.61%)
 
-✍️ 47 lines written by AI, 1 lines written by hand (97.92% AI-written)
+✍️ 11 lines written by AI, 1 lines written by hand (91.67% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 86 AI Prompts
+🧠 8 AI Sessions, 72 AI Prompts
 
-Gemini                   67 lines            █████████████████████████   100.00 % 
+Gemini                   17 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.92% of written lines came from AI
-📝 Concise Prompter — average 113 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 1.85% of changed lines were hand-edited
+🤖 AI-Driven — 91.67% of written lines came from AI
+📝 Concise Prompter — average 128 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 5.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Swift** 
@@ -82,5 +82,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 19:53:22 UTC
+ Last Updated on 30/07/2026 20:03:16 UTC
 <!--END_SECTION:waka-->
